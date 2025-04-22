@@ -1,20 +1,6 @@
-# 🎯 면접 경험 설문조사 (~ 2025.05.31)
-
-> 👋 **면접 보신 적 있으신가요?**  
-> 여러분의 소중한 경험이 누군가에겐 큰 도움이 됩니다!  
-> 스터디원들은 이 데이터를 바탕으로 **도서 제작**을 준비 중이에요.  
->  
-> 🎁 **설문에 참여해주신 분들 중 추첨을 통해 커피 쿠폰을 드립니다!**  
-> 👉 [면접 경험 설문조사 참여하기](https://docs.google.com/forms/d/e/1FAIpQLSeVGXNsdtseum60W2NenqPhhPjmwq5lrMIgaGe_WHCtkItGvg/viewform?usp=preview)
-
-# 신입 개발자 면접 대비 CS 스터디 👨🏻‍💻👩🏻‍💻 🔥
-
-[![Since](https://img.shields.io/badge/since-2023.01.02-333333.svg?style=flat-square)](https://github.com/devSquad-study/2023-CS-Study)
-[![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/devSquad-study/2023-CS-Study/blob/main/LICENSE.md/)
+# 개발자 면접 대비 CS 스터디 👨🏻‍💻👩🏻‍💻 🔥
 
 ![](/etc/image/developer_interview.jpeg)
-
-CS 스터디 시작 (2023.01.02 ~ ) | 자세한 내용은 👉🏻 [Wiki](https://github.com/devSquad-study/2023-CS-Study/wiki)에서 확인해 주세요.
 
 > 면접대비 CS와 관련된 지식을 정리한 레포입니다.
 >
@@ -38,15 +24,18 @@ CS 스터디 시작 (2023.01.02 ~ ) | 자세한 내용은 👉🏻 [Wiki](https:
 
 * 공부한 내용을 설명하여 죽은 지식이 아닌 **살아있는 지식**으로 바꾸고자 한다.
 
+## fork
+
+* 실제 실무에서 사용하는 구조로 샘플 코드를 작성해봅니다.
+
+* 해당 프로젝트에서는 C++을 기준으로 진행합니다.
+
 ## Contents
 
 * [자료구조 & 알고리즘](https://github.com/devSquad-study/2023-CS-Study/blob/main/Algorithm/README.md)
 * [운영체제](https://github.com/devSquad-study/2023-CS-Study/blob/main/OS/README.md)
 * [네트워크](https://github.com/devSquad-study/2023-CS-Study/blob/main/Network/README.md)
 * [데이터베이스](https://github.com/devSquad-study/2023-CS-Study/blob/main/DB/README.md)
-* [자바](https://github.com/devSquad-study/2023-CS-Study/blob/main/java/README.md)
-* [스프링](https://github.com/devSquad-study/2023-CS-Study/blob/main/Spring/README.md)
-* [JPA](https://github.com/devSquad-study/2023-CS-Study/blob/main/JPA/README.md)
 
 ## Expected question
 
@@ -54,13 +43,4 @@ CS 스터디 시작 (2023.01.02 ~ ) | 자세한 내용은 👉🏻 [Wiki](https:
 * [운영체제](https://github.com/devSquad-study/2023-CS-Study/blob/main/Interview/os_expected_question.md)
 * [네트워크](https://github.com/devSquad-study/2023-CS-Study/blob/main/Interview/network_expected_question.md)
 * [데이터베이스](https://github.com/devSquad-study/2023-CS-Study/blob/main/Interview/db_expected_question.md)
-* [자바](https://github.com/devSquad-study/2023-CS-Study/blob/main/Interview/java_expected_question.md)
-* [스프링](https://github.com/devSquad-study/2023-CS-Study/blob/main/Interview/spring_expected_question.md)
-* [JPA](https://github.com/devSquad-study/2023-CS-Study/blob/main/Interview/jpa_expected_question.md)
-
-## 👨🏻‍💻👩🏻‍💻 멤버 소개
-
-|[![](https://github.com/devFancy.png?width=200px)](https://github.com/devFancy)|[![](https://github.com/baekeunsun.png?width=200px)](https://github.com/baekeunsun) |[![](https://github.com/ParkJungYoon.png?width=200px)](https://github.com/ParkJungYoon) | [![](https://github.com/namtndus.png?width=200px)](https://github.com/namtndus)|[![](https://github.com/BHC-Chicken.png?width=200px)](https://github.com/BHC-Chicken)|[![](https://github.com/sanghyuk2.png?width=200px)](https://github.com/sanghyuk2) |[![](https://github.com/jthugg.png?width=200px)](https://github.com/jthugg)|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 팬시 | 은선 | 주디 | 수연 | 현철 | 상혁 | 네오 |
 
